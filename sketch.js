@@ -1,3 +1,4 @@
+//all the variables
 var myParticles = [];
 var input;
 var video;
